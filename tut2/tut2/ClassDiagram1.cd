@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tut2.GenKioskWrap">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAQAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>GenKioskWrap.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GeneralParkingKiosk" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="tut2.StaffKioskWrap">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>StaffKioskWrap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="tut2.StudKioskWrap">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAIAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>StudKioskWrap.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="StudentParkingKiosk" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="tut2.GeneralParkingKiosk">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>GeneralParkingKiosk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tut2.StaffParkingKiosk">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>StaffParkingKiosk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tut2.StudentParkingKiosk">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAQAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>StudentParkingKiosk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="tut2.Ikiosk">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Ikiosk.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="tut2.ParkType">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParkType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
